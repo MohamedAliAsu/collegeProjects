@@ -1,0 +1,35 @@
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.AssemblyReference.cache
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.SuggestedBindingRedirects.cache
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MainPage.resources
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.GenerateResource.cache
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.LoginRegh.resources
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.CustomerPage.resources
+D:\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.SellerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.AssemblyReference.cache
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.CustomerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.LoginRegh.resources
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MainPage.resources
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.SellerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.GenerateResource.cache
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MyForm.resources
+C:\Users\kingston007\OneDrive\Desktop\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.customerCart.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.AssemblyReference.cache
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.customerCart.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.CustomerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.LoginRegh.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MainPage.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MyForm.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.SellerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\New folder\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.GenerateResource.cache
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.AssemblyReference.cache
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.customerCart.resources
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.CustomerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.LoginRegh.resources
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MainPage.resources
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.MyForm.resources
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.SellerPage.resources
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.vcxproj.GenerateResource.cache
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.addProductSeller.resources

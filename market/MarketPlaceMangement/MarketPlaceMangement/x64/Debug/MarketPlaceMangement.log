@@ -1,0 +1,21 @@
+﻿  CustomerPage.cpp
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\CustomerPage.h(443,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LoginRegh.cpp
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\CustomerPage.h(443,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MainPage.cpp
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\CustomerPage.h(443,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\MainPage.cpp(6,39): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.cpp
+  SellerPage.cpp
+  addProductSeller.cpp
+  cart.cpp
+  customer.cpp
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\customer.cpp(87,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  customerCart.cpp
+  product.cpp
+  seller.cpp
+C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\MarketPlaceMangement\seller.cpp(18,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  values.cpp
+  Generating Code...
+  addProductSeller.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MarketPlaceMangement.vcxproj -> C:\Users\kingston007\OneDrive\Desktop\Final Project\MarketPlaceMangement\x64\Debug\MarketPlaceMangement.exe
